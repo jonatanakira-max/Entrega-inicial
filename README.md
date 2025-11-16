@@ -55,5 +55,7 @@ rendizado durante minha formação em Ciência da Computação.
 Contatos
 
 E-mail: jonatanakira@gmail.com
+
 LinkedIn: Jonatan Augusto
+
 GitHub: Jonatan Augusto
